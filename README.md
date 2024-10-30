@@ -30,6 +30,7 @@ Primeiro, crie um ambiente virtual para isolar as dependências do seu projeto:
 
 ```bash
 python -m venv .venv
+```
 
 ### 2. Ativar o Ambiente Virtual
 
@@ -49,6 +50,7 @@ Instale as dependências necessárias para o projeto. Certifique-se de ter um ar
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. Iniciar o Projeto
 
