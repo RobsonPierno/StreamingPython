@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# FastAPI specific
+*.db
+*.sqlite3
+
+# Other common files to ignore
+*.log
+*.local
+*.tmp
+*.temp
